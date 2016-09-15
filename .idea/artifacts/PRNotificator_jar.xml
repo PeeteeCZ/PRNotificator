@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="PRNotificator:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/PRNotificator_jar</output-path>
+    <root id="archive" name="PRNotificator.jar">
+      <element id="module-output" name="PRNotificator" />
+    </root>
+  </artifact>
+</component>
